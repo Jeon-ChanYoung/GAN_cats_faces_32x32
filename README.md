@@ -7,6 +7,7 @@ Various experiments using cat's face dataset for GANs
 4. WGAN-GP
 5. LSGAN
 6. DRAGAN
+7. InfoGAN
 
 <br>
 
@@ -37,5 +38,10 @@ Various experiments using cat's face dataset for GANs
 
 ## 6. DRAGAN (Result)  
 <img src="gif/DRAGAN.gif" width="768"/>
+
+<br>
+
+## 7. InfoGAN (Result)  
+<img src="gif/InfoGAN.gif" width="768"/>
 
 <br>
