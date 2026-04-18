@@ -45,3 +45,7 @@ Various experiments using cat's face dataset for GANs
 <img src="gif/InfoGAN.gif" width="768"/>
 
 <br>
+
+
+# reference
+- https://github.com/eriklindernoren/PyTorch-GAN
