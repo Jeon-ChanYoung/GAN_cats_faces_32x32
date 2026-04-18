@@ -5,25 +5,37 @@ Various experiments using cat's face dataset for GANs
  - DCGAN
  - WGAN
  - WGAN-GP
+ - LSGAN
+ - DRAGAN
 
 <br>
 
-## Vanilla GAN (Result)  
+## 1. Vanilla GAN (Result)  
 <img src="gif/VanillaGAN.gif" width="768"/>
 
 <br>
 
-## DCGAN (Result)  
+## 2. DCGAN (Result)  
 <img src="gif/DCGAN.gif" width="768"/>
 
 <br>
 
-## WGAN (Result)  
+## 3. WGAN (Result)  
 <img src="gif/WGAN.gif" width="768"/>
 
 <br>
 
-## WGAN-GP (Result)  
+## 4. WGAN-GP (Result)  
 <img src="gif/WGAN_GP.gif" width="768"/>
+
+<br>
+
+## 5. LSGAN (Result)  
+<img src="gif/LSGAN.gif" width="768"/>
+
+<br>
+
+## 6. DRAGAN (Result)  
+<img src="gif/DRAGAN.gif" width="768"/>
 
 <br>
