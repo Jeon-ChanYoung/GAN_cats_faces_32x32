@@ -1,12 +1,12 @@
 # GAN_cats_faces_32x32
 Various experiments using cat's face dataset for GANs
 
- - Vanilla GAN
- - DCGAN
- - WGAN
- - WGAN-GP
- - LSGAN
- - DRAGAN
+1. Vanilla GAN
+2. DCGAN
+3. WGAN
+4. WGAN-GP
+5. LSGAN
+6. DRAGAN
 
 <br>
 
